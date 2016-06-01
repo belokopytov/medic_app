@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+gem 'bootstrap-sass', '~> 3.3.0'
+gem 'api_cache'
+gem 'moneta'
+gem 'metamagic'
+gem 'angularjs-rails'
+gem 'rack-cors', :require => 'rack/cors'
+
